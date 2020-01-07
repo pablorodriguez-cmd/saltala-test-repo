@@ -1,0 +1,14 @@
+C:\Users\Anonymous\source\repos\SaltalaTest\SaltalaTestWinForm\bin\Debug\SaltalaTestWinForm.exe.config
+C:\Users\Anonymous\source\repos\SaltalaTest\SaltalaTestWinForm\bin\Debug\SaltalaTestWinForm.exe
+C:\Users\Anonymous\source\repos\SaltalaTest\SaltalaTestWinForm\bin\Debug\SaltalaTestWinForm.pdb
+C:\Users\Anonymous\source\repos\SaltalaTest\SaltalaTestWinForm\obj\Debug\SaltalaTestWinForm.csprojAssemblyReference.cache
+C:\Users\Anonymous\source\repos\SaltalaTest\SaltalaTestWinForm\obj\Debug\SaltalaTestWinForm.Form1.resources
+C:\Users\Anonymous\source\repos\SaltalaTest\SaltalaTestWinForm\obj\Debug\SaltalaTestWinForm.Properties.Resources.resources
+C:\Users\Anonymous\source\repos\SaltalaTest\SaltalaTestWinForm\obj\Debug\SaltalaTestWinForm.csproj.GenerateResource.cache
+C:\Users\Anonymous\source\repos\SaltalaTest\SaltalaTestWinForm\obj\Debug\SaltalaTestWinForm.exe
+C:\Users\Anonymous\source\repos\SaltalaTest\SaltalaTestWinForm\obj\Debug\SaltalaTestWinForm.pdb
+C:\Users\Anonymous\source\repos\SaltalaTest\SaltalaTestWinForm\bin\Debug\Assembly.dll
+C:\Users\Anonymous\source\repos\SaltalaTest\SaltalaTestWinForm\bin\Debug\Assembly.pdb
+C:\Users\Anonymous\source\repos\SaltalaTest\SaltalaTestWinForm\obj\Debug\SaltalaTestWinForm.csproj.CopyComplete
+C:\Users\Anonymous\source\repos\SaltalaTest\SaltalaTestWinForm\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Anonymous\source\repos\SaltalaTest\SaltalaTestWinForm\bin\Debug\Assembly.dll.config

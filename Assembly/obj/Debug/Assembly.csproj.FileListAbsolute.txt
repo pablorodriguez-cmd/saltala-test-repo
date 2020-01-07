@@ -1,0 +1,8 @@
+C:\Users\Anonymous\source\repos\SaltalaTest\Assembly\bin\Debug\Assembly.dll
+C:\Users\Anonymous\source\repos\SaltalaTest\Assembly\bin\Debug\Assembly.pdb
+C:\Users\Anonymous\source\repos\SaltalaTest\Assembly\obj\Debug\Assembly.dll
+C:\Users\Anonymous\source\repos\SaltalaTest\Assembly\obj\Debug\Assembly.pdb
+C:\Users\Anonymous\source\repos\SaltalaTest\Assembly\bin\Debug\Assembly.dll.config
+C:\Users\Anonymous\source\repos\SaltalaTest\Assembly\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Anonymous\source\repos\SaltalaTest\Assembly\obj\Debug\Assembly.csproj.CopyComplete
+C:\Users\Anonymous\source\repos\SaltalaTest\Assembly\obj\Debug\Assembly.csprojAssemblyReference.cache
